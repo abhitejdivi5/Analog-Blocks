@@ -1,4 +1,4 @@
-# Fully Differential two stage Op-amp with common mode feedback
+# Fully Differential two-stage Op-amp with common mode feedback
 
 With Regards Abhitej Divi ;)
 
@@ -10,12 +10,12 @@ A) Technology: TSMC 180nm process \
 B) Supply Voltage (V<sub>dd</sub>) = 1.8 V \
 C) Voltage gain (A<sub>v</sub>) = 70dB \
 D) Load Capacitor (C<sub>L</sub>) = 1pF and 2pF \
-H) Gain Bandwidth Product (GBW) > 1505MHz 
+H) Gain Bandwidth Product (GBW) > 150MHz 
 
 ## 2. Schematic diagram
 
 <p align="center">
-<img width="900" alt="Schematic Diagram" src="https://user-images.githubusercontent.com/62088646/212534694-775215bb-b2a0-4e26-a0d7-4aa08d6f3bc9.png">
+<img width="900" alt="Schematic Diagram" src="img width="1306" height="753" alt="Image" src="https://github.com/user-attachments/assets/d60188c4-c385-45cb-99e7-3434a9239cb1" /">
 </p>
 
 
