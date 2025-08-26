@@ -15,7 +15,8 @@ H) Gain Bandwidth Product (GBW) > 150MHz
 ## 2. Schematic diagram
 
 <p align="center">
-<img width="900" alt="Schematic Diagram" src="img width="1306" height="753" alt="Image" src="https://github.com/user-attachments/assets/d60188c4-c385-45cb-99e7-3434a9239cb1" /">
+<img width="900" alt="Schematic Diagram" src="img width="1306" height="753" alt="Image" src="[https://github.com/user-attachments/assets/d60188c4-c385-45cb-99e7-3434a9239cb1](https://github.com/abhitejdivi5/Analog-Blocks/issues/1#issue-3354274361)
+" /">
 </p>
 
 
